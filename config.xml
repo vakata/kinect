@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns = "http://www.w3.org/ns/widgets"
+	xmlns:gap   = "http://phonegap.com/ns/1.0"
+	id          = "com.vakata.kinect"
+	version     = "1.0.6"
+	versionCode = "10">
+	<preference name="phonegap-version" value="3.4.0" />
+	<name>Kinect</name>
+	<description></description>
+	<author href="http://vakata.com" email="kinect@vakata.com">Иван Божанов</author>
+	<icon src="icon.png" />
+	<gap:plugin name="com.phonegap.plugins.pushplugin" />
+	<gap:plugin name="org.apache.cordova.device" />
+	<preference name="permissions" value="none"/>
+	<feature name="http://api.phonegap.com/1.0/notification"/>
+</widget>

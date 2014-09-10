@@ -1,0 +1,15 @@
+body { background:url('./images/body.jpg'); padding-top:2em; }
+
+/*
+.btn { font-size:16px; font-weight:normal; box-shadow:0 1px 1px 0 rgba(255, 255, 255, 0.3) inset, 0 1px 3px 0 rgba(0, 0, 0, 0.1); text-shadow:-1px -1px 1px #164666; }
+.btn-primary { background:#2980B9; border-color:#20638F #20638F #164666; }
+.btn-primary:hover, .btn-primary:focus, .btn-primary:active { background-color:#226998; border-color:#15405D; }
+.btn-danger { background:#A3554F; border-color:#924C47 #924C47 #6F3A36; }
+.btn-danger:hover, .btn-danger:focus, .btn-danger:active { background-color:#884742; border-color:#693733; }
+.btn:active { box-shadow: 0 3px 5px rgba(0, 0, 0, 0.125) inset; outline: 0 none; }
+.btn-default { background: #F4F3ED; border-bottom: 1px solid #A1A09E; border-color: #BAB9B8 #BAB9B8 #A1A09E; box-shadow: 0 2px 2px 0 #FFFFFF inset, 0 1px 3px 0 rgba(0, 0, 0, 0.1); color: #333333; text-shadow: 1px 1px 1px #FFFFFF; }
+.btn-default:hover, .btn-default:focus, .btn-default:active { background-color: #E5E2D4; border-color: #9C9A99; color: #333333; }
+.btn-sm { font-size:15px; }
+*/
+
+#image { display:block; width:90%; height:auto; margin:0 auto; border-radius:10px; box-shadow:0 0 5px black; }
